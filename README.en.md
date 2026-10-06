@@ -13,6 +13,8 @@ A quiet Pomodoro timer for Android, nothing extra.
 
 ## Build
 
+You can find the packaged APK under Release. If you want to build it yourself:
+
 ```sh
 ./gradlew assembleDebug      # APK → app/build/outputs/apk/debug/
 ./gradlew installDebug       # install on a connected device
