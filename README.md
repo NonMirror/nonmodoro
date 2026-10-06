@@ -13,6 +13,8 @@
 
 ## 构建
 
+可以在 Release 下找到打包好的 APK，如果你想自己 build：
+
 ```sh
 ./gradlew assembleDebug      # 生成 APK → app/build/outputs/apk/debug/
 ./gradlew installDebug       # 安装到已连接的设备
