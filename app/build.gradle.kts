@@ -19,8 +19,24 @@ android {
         resourceConfigurations += listOf("en")
     }
 
+    // Release signing reads NOMO_* from ~/.gradle/gradle.properties so the
+    // keystore and its passwords never enter the repo. Without them the release
+    // build is simply left unsigned.
+    val releaseStore = providers.gradleProperty("NOMO_STORE_FILE").orNull
+    signingConfigs {
+        if (releaseStore != null) {
+            create("release") {
+                storeFile = file(releaseStore)
+                storePassword = providers.gradleProperty("NOMO_STORE_PASSWORD").get()
+                keyAlias = providers.gradleProperty("NOMO_KEY_ALIAS").get()
+                keyPassword = providers.gradleProperty("NOMO_KEY_PASSWORD").get()
+            }
+        }
+    }
+
     buildTypes {
         release {
+            signingConfigs.findByName("release")?.let { signingConfig = it }
             isMinifyEnabled = false
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
