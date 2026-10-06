@@ -1,0 +1,14 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Only the README preview is tracked; other preview images are local scratch.
+/preview/*
+!/preview/screenshots.png

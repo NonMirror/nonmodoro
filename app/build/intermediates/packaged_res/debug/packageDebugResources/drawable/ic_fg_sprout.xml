@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generated from SVG by svg2vd.py. Do not edit by hand. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.6111111111111112"
+        android:scaleY="0.6111111111111112"
+        android:translateX="21"
+        android:translateY="21">
+        <path
+            android:pathData="M54 87 L54 44"
+            android:strokeColor="#FF000000"
+            android:strokeWidth="5.2"
+            android:strokeLineCap="round"
+            />
+        <path
+            android:pathData="M54 56 C39 56 28.5 47 26.5 34 C41.5 34 52 43 54 56 Z"
+            android:fillColor="#FF000000"
+            />
+        <path
+            android:pathData="M54 44 C69 44 79.5 35 81.5 22 C66.5 22 56 31 54 44 Z"
+            android:fillColor="#FF000000"
+            />
+        <path
+            android:pathData="M31 87 L77 87"
+            android:strokeColor="#FF000000"
+            android:strokeWidth="5"
+            android:strokeLineCap="round"
+            />
+    </group>
+</vector>

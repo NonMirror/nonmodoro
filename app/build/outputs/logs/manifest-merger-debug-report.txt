@@ -1,0 +1,564 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:2:1-197:12
+INJECTED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:2:1-197:12
+INJECTED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:2:1-197:12
+INJECTED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:2:1-197:12
+MERGED from [androidx.compose.material3:material3-android:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/b7c6ce4d29bb24f8b6b1e966ae33bf14/transformed/material3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/0689d502c01daa7cf358b360e8693a93/transformed/animation-core/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/2d81e4bc9545cf15667117ce6417644d/transformed/material-ripple/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/499b4a54b717939645c6ba9e71647c7a/transformed/animation/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/4099935332051344727369b80b958b87/transformed/foundation-layout/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/051fb512e3661eee06ee581a6f27d59c/transformed/foundation/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/e8be8c302afed107f624b2be1a8c462a/transformed/ui-tooling-data/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/ed3369d5fddb7283df7eaaff6997a5c1/transformed/ui-unit/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/ad9455f2194b7eb504d7a231dc559a05/transformed/ui-geometry/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/6d90e772582461ea4530e4bad7ca75bf/transformed/ui-util/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/64383710c6f3cf2a5b29f5645a100562/transformed/ui-text/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/9e7ba9617a273346608c795acab76476/transformed/ui-tooling-preview/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/4cba5d1a94f69533ada50a49129a7c15/transformed/ui-tooling/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/6462f50380734fd5720d0bff81cb5623/transformed/ui-graphics/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-google-fonts:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5abaad116f37e85884ce08f11193f63f/transformed/ui-text-google-fonts-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/675d0c82f7ed00824328cf4ff091d0ab/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-core-android:1.5.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/fe62315366c93f4cd32daa9361f670f7/transformed/window-core/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.5.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/1e20701bd06cc9a77ea30aecb08ae724/transformed/window-1.5.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/ff65c17b49cc80d188c653ee5b246e13/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/7b6445c08e63d9b4c2d263beae3eab82/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.19.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5bb96a5ac5cb83181d29e7b5eb1b0f13/transformed/core-1.19.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/6771985212931db819da5951ea2c7a8b/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/63900efac8dccf449066dfa9f3625ac8/transformed/lifecycle-livedata-core-2.11.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/17d45c506bf802a4319ba0360047d5d3/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/810e31273e56870af4eec2c44ea75591/transformed/lifecycle-viewmodel-savedstate/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/a0b5eed9479b1096ca6626f17ec62f21/transformed/lifecycle-viewmodel-ktx-2.11.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/f1399f12781d7545b98e2571da76427e/transformed/lifecycle-viewmodel/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/e43f362a54f8846054c95ea4bbefb9f0/transformed/navigationevent/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigationevent:navigationevent-compose-android:1.0.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/7653e27eedc1f25debbbbc1dc0c633ca/transformed/navigationevent-compose/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/b4ed92a791ea36defd673d3e04ec5b58/transformed/runtime-annotation/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/a578c2bab40c6071847741c09fe9a062/transformed/runtime-retain/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/ce42cb8d28a764d14a1eecad3d79f7db/transformed/runtime/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/4d6ef1d2f246e6c50daa8c0ec091268b/transformed/runtime-saveable/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-compose-android:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/c2f02e63a3bd96a9d9ce35d6fb34eb62/transformed/savedstate-compose/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/79ed734e1277e201d5937e9659d6f002/transformed/savedstate-ktx-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-android:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/b2fc11bc5a0703bee25686af8bcb55f5/transformed/savedstate/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/e7d273d0065babfa53cb2cb36beb83a1/transformed/lifecycle-runtime/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/a31800ee0101e3a2a824614b63d228b5/transformed/lifecycle-viewmodel-compose/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/51ecda50bacca82a5ddfd3e3360da4bd/transformed/lifecycle-service-2.11.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/2a42e4bf8c242535fa2ca6c3eb235c9b/transformed/lifecycle-runtime-compose/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] /Users/nonmirror/.gradle/caches/9.3.1/transforms/19bc0ef4f97ff87b943fbac23e02b469/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/43f5f64c5f7b41c7e327e27264d3e906/transformed/ui/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.13.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/a06cf5961ce5e67bf5a35b0a97fd9de7/transformed/activity-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.13.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/2a54025cd0ed73423d6d111ba658f58a/transformed/activity-1.13.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.13.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/c6ee04c40dbafd93187551237f5f6e76/transformed/activity-compose-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/dea96227eabf9dbf747b3835422ce6d4/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.19.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/09005cf5c53b03f85984d1c55461bab0/transformed/core-ktx-1.19.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/fd45ded3db743e022bb6dd17ecf6ef14/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/73e1c77c7ead08d0c84241c6b33cca45/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/342f4a5cca52f3cbc41fd8c214c3bbfd/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/2e2161ad5db6900a41f5f6fc0bb0a873/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5febd82dc0ae2fc3074623fde8808598/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5dc3c0bb55f1aeb508899365e213b81c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/ca71587c44d64ee78789451b6a33647c/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:4:5-77
+	android:name
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:4:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:5:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_SPECIAL_USE
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:6:5-89
+	android:name
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:6:22-86
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:7:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:8:22-65
+application
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:10:5-195:19
+INJECTED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:10:5-195:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/4cba5d1a94f69533ada50a49129a7c15/transformed/ui-tooling/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/4cba5d1a94f69533ada50a49129a7c15/transformed/ui-tooling/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.window:window:1.5.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/1e20701bd06cc9a77ea30aecb08ae724/transformed/window-1.5.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.5.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/1e20701bd06cc9a77ea30aecb08ae724/transformed/window-1.5.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/7b6445c08e63d9b4c2d263beae3eab82/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/7b6445c08e63d9b4c2d263beae3eab82/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.19.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5bb96a5ac5cb83181d29e7b5eb1b0f13/transformed/core-1.19.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.19.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5bb96a5ac5cb83181d29e7b5eb1b0f13/transformed/core-1.19.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/6771985212931db819da5951ea2c7a8b/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/6771985212931db819da5951ea2c7a8b/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/2e2161ad5db6900a41f5f6fc0bb0a873/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/2e2161ad5db6900a41f5f6fc0bb0a873/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5dc3c0bb55f1aeb508899365e213b81c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5dc3c0bb55f1aeb508899365e213b81c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.19.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5bb96a5ac5cb83181d29e7b5eb1b0f13/transformed/core-1.19.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:17:9-47
+	android:name
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:11:9-32
+activity#com.nonmirror.nonmodoro.MainActivity
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:19:9-24:58
+	android:windowSoftInputMode
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:24:13-55
+	android:exported
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:21:13-36
+	android:configChanges
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:22:13-94
+	android:theme
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:23:13-51
+	android:name
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:20:13-41
+service#com.nonmirror.nonmodoro.timer.TimerService
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:26:9-33:19
+	android:exported
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:28:13-37
+	android:foregroundServiceType
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:29:13-55
+	android:name
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:27:13-47
+property#android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:30:13-32:113
+	android:value
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:32:17-110
+	android:name
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:31:17-76
+activity-alias#com.nonmirror.nonmodoro.icon.Tomato
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:41:9-53:26
+	android:enabled
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:44:13-35
+	android:label
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:48:13-45
+	android:exported
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:45:13-36
+	android:targetActivity
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:43:13-51
+	android:roundIcon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:47:13-59
+	android:icon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:46:13-54
+	android:name
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:42:13-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:49:13-52:29
+action#android.intent.action.MAIN
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:51:27-74
+activity-alias#com.nonmirror.nonmodoro.icon.Hourglass
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:55:9-67:26
+	android:enabled
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:58:13-36
+	android:label
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:62:13-45
+	android:exported
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:59:13-36
+	android:targetActivity
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:57:13-51
+	android:roundIcon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:61:13-62
+	android:icon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:60:13-57
+	android:name
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:56:13-43
+activity-alias#com.nonmirror.nonmodoro.icon.Snail
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:69:9-81:26
+	android:enabled
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:72:13-36
+	android:label
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:76:13-45
+	android:exported
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:73:13-36
+	android:targetActivity
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:71:13-51
+	android:roundIcon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:75:13-58
+	android:icon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:74:13-53
+	android:name
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:70:13-39
+activity-alias#com.nonmirror.nonmodoro.icon.Alarm
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:83:9-95:26
+	android:enabled
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:86:13-36
+	android:label
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:90:13-45
+	android:exported
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:87:13-36
+	android:targetActivity
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:85:13-51
+	android:roundIcon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:89:13-58
+	android:icon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:88:13-53
+	android:name
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:84:13-39
+activity-alias#com.nonmirror.nonmodoro.icon.Cat
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:97:9-109:26
+	android:enabled
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:100:13-36
+	android:label
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:104:13-45
+	android:exported
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:101:13-36
+	android:targetActivity
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:99:13-51
+	android:roundIcon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:103:13-56
+	android:icon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:102:13-51
+	android:name
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:98:13-37
+activity-alias#com.nonmirror.nonmodoro.icon.Bell
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:111:9-123:26
+	android:enabled
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:114:13-36
+	android:label
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:118:13-45
+	android:exported
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:115:13-36
+	android:targetActivity
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:113:13-51
+	android:roundIcon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:117:13-57
+	android:icon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:116:13-52
+	android:name
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:112:13-38
+activity-alias#com.nonmirror.nonmodoro.icon.Sitter
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:125:9-137:26
+	android:enabled
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:128:13-36
+	android:label
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:132:13-45
+	android:exported
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:129:13-36
+	android:targetActivity
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:127:13-51
+	android:roundIcon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:131:13-59
+	android:icon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:130:13-54
+	android:name
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:126:13-40
+activity-alias#com.nonmirror.nonmodoro.icon.Target
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:139:9-151:26
+	android:enabled
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:142:13-36
+	android:label
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:146:13-45
+	android:exported
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:143:13-36
+	android:targetActivity
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:141:13-51
+	android:roundIcon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:145:13-59
+	android:icon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:144:13-54
+	android:name
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:140:13-40
+activity-alias#com.nonmirror.nonmodoro.icon.Sprout
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:153:9-165:26
+	android:enabled
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:156:13-36
+	android:label
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:160:13-45
+	android:exported
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:157:13-36
+	android:targetActivity
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:155:13-51
+	android:roundIcon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:159:13-59
+	android:icon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:158:13-54
+	android:name
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:154:13-40
+activity-alias#com.nonmirror.nonmodoro.icon.Stones
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:167:9-179:26
+	android:enabled
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:170:13-36
+	android:label
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:174:13-45
+	android:exported
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:171:13-36
+	android:targetActivity
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:169:13-51
+	android:roundIcon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:173:13-59
+	android:icon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:172:13-54
+	android:name
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:168:13-40
+activity-alias#com.nonmirror.nonmodoro.icon.Candle
+ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:181:9-193:26
+	android:enabled
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:184:13-36
+	android:label
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:188:13-45
+	android:exported
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:185:13-36
+	android:targetActivity
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:183:13-51
+	android:roundIcon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:187:13-59
+	android:icon
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:186:13-54
+	android:name
+		ADDED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml:182:13-40
+uses-sdk
+INJECTED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml
+MERGED from [androidx.compose.material3:material3-android:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/b7c6ce4d29bb24f8b6b1e966ae33bf14/transformed/material3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/b7c6ce4d29bb24f8b6b1e966ae33bf14/transformed/material3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/0689d502c01daa7cf358b360e8693a93/transformed/animation-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/0689d502c01daa7cf358b360e8693a93/transformed/animation-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/2d81e4bc9545cf15667117ce6417644d/transformed/material-ripple/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/2d81e4bc9545cf15667117ce6417644d/transformed/material-ripple/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/499b4a54b717939645c6ba9e71647c7a/transformed/animation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/499b4a54b717939645c6ba9e71647c7a/transformed/animation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/4099935332051344727369b80b958b87/transformed/foundation-layout/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/4099935332051344727369b80b958b87/transformed/foundation-layout/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/051fb512e3661eee06ee581a6f27d59c/transformed/foundation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/051fb512e3661eee06ee581a6f27d59c/transformed/foundation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/e8be8c302afed107f624b2be1a8c462a/transformed/ui-tooling-data/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/e8be8c302afed107f624b2be1a8c462a/transformed/ui-tooling-data/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/ed3369d5fddb7283df7eaaff6997a5c1/transformed/ui-unit/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/ed3369d5fddb7283df7eaaff6997a5c1/transformed/ui-unit/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/ad9455f2194b7eb504d7a231dc559a05/transformed/ui-geometry/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/ad9455f2194b7eb504d7a231dc559a05/transformed/ui-geometry/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/6d90e772582461ea4530e4bad7ca75bf/transformed/ui-util/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/6d90e772582461ea4530e4bad7ca75bf/transformed/ui-util/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/64383710c6f3cf2a5b29f5645a100562/transformed/ui-text/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/64383710c6f3cf2a5b29f5645a100562/transformed/ui-text/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/9e7ba9617a273346608c795acab76476/transformed/ui-tooling-preview/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/9e7ba9617a273346608c795acab76476/transformed/ui-tooling-preview/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/4cba5d1a94f69533ada50a49129a7c15/transformed/ui-tooling/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/4cba5d1a94f69533ada50a49129a7c15/transformed/ui-tooling/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/6462f50380734fd5720d0bff81cb5623/transformed/ui-graphics/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/6462f50380734fd5720d0bff81cb5623/transformed/ui-graphics/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-google-fonts:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5abaad116f37e85884ce08f11193f63f/transformed/ui-text-google-fonts-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-google-fonts:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5abaad116f37e85884ce08f11193f63f/transformed/ui-text-google-fonts-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/675d0c82f7ed00824328cf4ff091d0ab/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/675d0c82f7ed00824328cf4ff091d0ab/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-core-android:1.5.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/fe62315366c93f4cd32daa9361f670f7/transformed/window-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-core-android:1.5.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/fe62315366c93f4cd32daa9361f670f7/transformed/window-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.5.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/1e20701bd06cc9a77ea30aecb08ae724/transformed/window-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.5.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/1e20701bd06cc9a77ea30aecb08ae724/transformed/window-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/ff65c17b49cc80d188c653ee5b246e13/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/ff65c17b49cc80d188c653ee5b246e13/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/7b6445c08e63d9b4c2d263beae3eab82/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/7b6445c08e63d9b4c2d263beae3eab82/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.19.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5bb96a5ac5cb83181d29e7b5eb1b0f13/transformed/core-1.19.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.19.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5bb96a5ac5cb83181d29e7b5eb1b0f13/transformed/core-1.19.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/6771985212931db819da5951ea2c7a8b/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/6771985212931db819da5951ea2c7a8b/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/63900efac8dccf449066dfa9f3625ac8/transformed/lifecycle-livedata-core-2.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/63900efac8dccf449066dfa9f3625ac8/transformed/lifecycle-livedata-core-2.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/17d45c506bf802a4319ba0360047d5d3/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/17d45c506bf802a4319ba0360047d5d3/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/810e31273e56870af4eec2c44ea75591/transformed/lifecycle-viewmodel-savedstate/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/810e31273e56870af4eec2c44ea75591/transformed/lifecycle-viewmodel-savedstate/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/a0b5eed9479b1096ca6626f17ec62f21/transformed/lifecycle-viewmodel-ktx-2.11.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/a0b5eed9479b1096ca6626f17ec62f21/transformed/lifecycle-viewmodel-ktx-2.11.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/f1399f12781d7545b98e2571da76427e/transformed/lifecycle-viewmodel/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/f1399f12781d7545b98e2571da76427e/transformed/lifecycle-viewmodel/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/e43f362a54f8846054c95ea4bbefb9f0/transformed/navigationevent/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/e43f362a54f8846054c95ea4bbefb9f0/transformed/navigationevent/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-compose-android:1.0.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/7653e27eedc1f25debbbbc1dc0c633ca/transformed/navigationevent-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-compose-android:1.0.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/7653e27eedc1f25debbbbc1dc0c633ca/transformed/navigationevent-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/b4ed92a791ea36defd673d3e04ec5b58/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/b4ed92a791ea36defd673d3e04ec5b58/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/a578c2bab40c6071847741c09fe9a062/transformed/runtime-retain/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/a578c2bab40c6071847741c09fe9a062/transformed/runtime-retain/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/ce42cb8d28a764d14a1eecad3d79f7db/transformed/runtime/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/ce42cb8d28a764d14a1eecad3d79f7db/transformed/runtime/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/4d6ef1d2f246e6c50daa8c0ec091268b/transformed/runtime-saveable/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/4d6ef1d2f246e6c50daa8c0ec091268b/transformed/runtime-saveable/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/c2f02e63a3bd96a9d9ce35d6fb34eb62/transformed/savedstate-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/c2f02e63a3bd96a9d9ce35d6fb34eb62/transformed/savedstate-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/79ed734e1277e201d5937e9659d6f002/transformed/savedstate-ktx-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/79ed734e1277e201d5937e9659d6f002/transformed/savedstate-ktx-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/b2fc11bc5a0703bee25686af8bcb55f5/transformed/savedstate/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/b2fc11bc5a0703bee25686af8bcb55f5/transformed/savedstate/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/e7d273d0065babfa53cb2cb36beb83a1/transformed/lifecycle-runtime/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/e7d273d0065babfa53cb2cb36beb83a1/transformed/lifecycle-runtime/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/a31800ee0101e3a2a824614b63d228b5/transformed/lifecycle-viewmodel-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/a31800ee0101e3a2a824614b63d228b5/transformed/lifecycle-viewmodel-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/51ecda50bacca82a5ddfd3e3360da4bd/transformed/lifecycle-service-2.11.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/51ecda50bacca82a5ddfd3e3360da4bd/transformed/lifecycle-service-2.11.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/2a42e4bf8c242535fa2ca6c3eb235c9b/transformed/lifecycle-runtime-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/2a42e4bf8c242535fa2ca6c3eb235c9b/transformed/lifecycle-runtime-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] /Users/nonmirror/.gradle/caches/9.3.1/transforms/19bc0ef4f97ff87b943fbac23e02b469/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] /Users/nonmirror/.gradle/caches/9.3.1/transforms/19bc0ef4f97ff87b943fbac23e02b469/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/43f5f64c5f7b41c7e327e27264d3e906/transformed/ui/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/43f5f64c5f7b41c7e327e27264d3e906/transformed/ui/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.13.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/a06cf5961ce5e67bf5a35b0a97fd9de7/transformed/activity-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.13.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/a06cf5961ce5e67bf5a35b0a97fd9de7/transformed/activity-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.13.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/2a54025cd0ed73423d6d111ba658f58a/transformed/activity-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.13.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/2a54025cd0ed73423d6d111ba658f58a/transformed/activity-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.13.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/c6ee04c40dbafd93187551237f5f6e76/transformed/activity-compose-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.13.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/c6ee04c40dbafd93187551237f5f6e76/transformed/activity-compose-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/dea96227eabf9dbf747b3835422ce6d4/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/dea96227eabf9dbf747b3835422ce6d4/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.19.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/09005cf5c53b03f85984d1c55461bab0/transformed/core-ktx-1.19.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.19.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/09005cf5c53b03f85984d1c55461bab0/transformed/core-ktx-1.19.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/fd45ded3db743e022bb6dd17ecf6ef14/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/fd45ded3db743e022bb6dd17ecf6ef14/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/73e1c77c7ead08d0c84241c6b33cca45/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/73e1c77c7ead08d0c84241c6b33cca45/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/342f4a5cca52f3cbc41fd8c214c3bbfd/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/342f4a5cca52f3cbc41fd8c214c3bbfd/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/2e2161ad5db6900a41f5f6fc0bb0a873/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/2e2161ad5db6900a41f5f6fc0bb0a873/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5febd82dc0ae2fc3074623fde8808598/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5febd82dc0ae2fc3074623fde8808598/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5dc3c0bb55f1aeb508899365e213b81c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5dc3c0bb55f1aeb508899365e213b81c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/ca71587c44d64ee78789451b6a33647c/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/ca71587c44d64ee78789451b6a33647c/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nonmirror/Projects/nonmodoro/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/4cba5d1a94f69533ada50a49129a7c15/transformed/ui-tooling/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/4cba5d1a94f69533ada50a49129a7c15/transformed/ui-tooling/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.12.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/4cba5d1a94f69533ada50a49129a7c15/transformed/ui-tooling/AndroidManifest.xml:24:13-71
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.5.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/1e20701bd06cc9a77ea30aecb08ae724/transformed/window-1.5.0/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.5.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/1e20701bd06cc9a77ea30aecb08ae724/transformed/window-1.5.0/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.5.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/1e20701bd06cc9a77ea30aecb08ae724/transformed/window-1.5.0/AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.5.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/1e20701bd06cc9a77ea30aecb08ae724/transformed/window-1.5.0/AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.5.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/1e20701bd06cc9a77ea30aecb08ae724/transformed/window-1.5.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.5.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/1e20701bd06cc9a77ea30aecb08ae724/transformed/window-1.5.0/AndroidManifest.xml:27:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/7b6445c08e63d9b4c2d263beae3eab82/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/6771985212931db819da5951ea2c7a8b/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/6771985212931db819da5951ea2c7a8b/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/2e2161ad5db6900a41f5f6fc0bb0a873/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/2e2161ad5db6900a41f5f6fc0bb0a873/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/7b6445c08e63d9b4c2d263beae3eab82/transformed/emoji2-1.4.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/7b6445c08e63d9b4c2d263beae3eab82/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/7b6445c08e63d9b4c2d263beae3eab82/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/7b6445c08e63d9b4c2d263beae3eab82/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/7b6445c08e63d9b4c2d263beae3eab82/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/7b6445c08e63d9b4c2d263beae3eab82/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/7b6445c08e63d9b4c2d263beae3eab82/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.19.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5bb96a5ac5cb83181d29e7b5eb1b0f13/transformed/core-1.19.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.19.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5bb96a5ac5cb83181d29e7b5eb1b0f13/transformed/core-1.19.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.19.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5bb96a5ac5cb83181d29e7b5eb1b0f13/transformed/core-1.19.1/AndroidManifest.xml:23:9-81
+permission#com.nonmirror.nonmodoro.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.19.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5bb96a5ac5cb83181d29e7b5eb1b0f13/transformed/core-1.19.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.19.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5bb96a5ac5cb83181d29e7b5eb1b0f13/transformed/core-1.19.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.19.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5bb96a5ac5cb83181d29e7b5eb1b0f13/transformed/core-1.19.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.19.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5bb96a5ac5cb83181d29e7b5eb1b0f13/transformed/core-1.19.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.19.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5bb96a5ac5cb83181d29e7b5eb1b0f13/transformed/core-1.19.1/AndroidManifest.xml:26:22-94
+uses-permission#com.nonmirror.nonmodoro.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.19.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5bb96a5ac5cb83181d29e7b5eb1b0f13/transformed/core-1.19.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.19.1] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5bb96a5ac5cb83181d29e7b5eb1b0f13/transformed/core-1.19.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/6771985212931db819da5951ea2c7a8b/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/6771985212931db819da5951ea2c7a8b/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.11.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/6771985212931db819da5951ea2c7a8b/transformed/lifecycle-process-2.11.0/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/nonmirror/.gradle/caches/9.3.1/transforms/5f6c64c68ea54433295b471665f42261/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
