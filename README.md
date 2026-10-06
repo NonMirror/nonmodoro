@@ -22,7 +22,7 @@
 
 ## 致谢
 
-本应用为原创 Android 应用，灵感来自 Mac 应用 Kofe Flow，你可以在 App Store 找到它。字体：[Inter](https://rsms.me/inter/)。
+灵感来自 Mac 应用 Kofe Flow，你可以在 App Store 找到它。字体：[Inter](https://rsms.me/inter/)。
 
 ## 许可证
 
