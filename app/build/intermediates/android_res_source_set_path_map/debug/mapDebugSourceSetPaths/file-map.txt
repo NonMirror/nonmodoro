@@ -1,7 +1,0 @@
-com.nonmirror.nonmodoro.app-pngs-0 /Users/nonmirror/Projects/nonmodoro/app/build/generated/res/pngs/debug
-com.nonmirror.nonmodoro.app-updated_navigation_xml-1 /Users/nonmirror/Projects/nonmodoro/app/build/generated/updated_navigation_xml/debug
-com.nonmirror.nonmodoro.app-packageDebugResources-2 /Users/nonmirror/Projects/nonmodoro/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.nonmirror.nonmodoro.app-packageDebugResources-3 /Users/nonmirror/Projects/nonmodoro/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.nonmirror.nonmodoro.app-debug-4 /Users/nonmirror/Projects/nonmodoro/app/build/intermediates/merged_res/debug/mergeDebugResources
-com.nonmirror.nonmodoro.app-debug-5 /Users/nonmirror/Projects/nonmodoro/app/src/debug/res
-com.nonmirror.nonmodoro.app-main-6 /Users/nonmirror/Projects/nonmodoro/app/src/main/res
