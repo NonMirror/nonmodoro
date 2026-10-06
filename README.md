@@ -1,6 +1,6 @@
 # Nonmodoro
 
-[English](README.md) | **简体中文**
+[English](README.en.md) | **简体中文**
 
 安静的 Android 番茄钟，没有多余功能。
 
